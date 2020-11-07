@@ -1,0 +1,14 @@
+
+<suite name="Suite1" verbose="1" >
+  <test name="Normal">
+    <classes>
+      <class name="driver.Driver" />
+        <methods>
+           <include	name="openbrowser" />
+           <include name="login" />
+            <include name="sendmail" />
+             <exclude name="deletemail" />
+              </methods>
+   </classes>
+ </test>
+</suite>
