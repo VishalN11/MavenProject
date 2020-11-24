@@ -1,6 +1,0 @@
-{
-     "browser":"Firefox",
-     "baseUrl":"https://www.google.com",
-     "loginUrl":"https://accounts.google.com/"
-     "inbox":"https://mail.google.com/"
-}
